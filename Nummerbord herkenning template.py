@@ -5,6 +5,8 @@ Created on Mon Mar 13 13:15:55 2017
 @author: Mitchel
 """
 
+# ALLESSSSSS IS ANDERS OF TOCH NIET
+
 import cv2
 import numpy as np
 import time
